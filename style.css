@@ -1,0 +1,56 @@
+.custom-file input[type="file"] {
+    display: none;
+   
+}
+.form{
+    padding: 40px;
+    background-color: #7bafd4;
+    
+    
+    
+}
+
+
+body h2{
+    text-align: center;
+}
+#update{
+  display: none;
+}
+.styled-table {
+    border-collapse: collapse;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    width: 100%;
+   
+    margin-bottom: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    
+}
+
+.styled-table thead{
+    width: 90%;
+}
+
+
+.styled-table thead tr {
+    background-color: #7bafd4;
+    color: #ffffff;
+    text-align: left;
+}
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+
+.styled-table th:hover{
+    background-color: skyblue;
+}
+.btn{
+    margin: 5px;
+}
